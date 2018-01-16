@@ -1,0 +1,363 @@
+Epoch: 0
+
+Training..: 
+
+Epoch: 0.00  |  Index: 1 | Loss: 2.333 | Acc: 11.719% (30/256) | total time: 0.597s
+Epoch: 0.20  |  Index: 47 | Loss: 1.815 | Acc: 37.899% (4560/12032) | total time: 1.207s
+Epoch: 0.40  |  Index: 94 | Loss: 1.309 | Acc: 57.256% (13778/24064) | total time: 1.788s
+Epoch: 0.60  |  Index: 141 | Loss: 0.957 | Acc: 69.013% (24911/36096) | total time: 2.378s
+Epoch: 0.80  |  Index: 188 | Loss: 0.763 | Acc: 75.424% (36300/48128) | total time: 2.970s
+Epoch: 1.00  |  Index: 235 | Loss: 0.641 | Acc: 79.372% (47623/60000) | total time: 8.145s
+
+Testing..: 
+
+Epoch: 1.00  |  Index: 1 | Loss: 0.206 | Acc: 94.531% (242/256) | total time: 0.035s
+Epoch: 5.00  |  Index: 5 | Loss: 0.138 | Acc: 95.469% (1222/1280) | total time: 0.085s
+Epoch: 10.00  |  Index: 10 | Loss: 0.128 | Acc: 96.133% (2461/2560) | total time: 0.148s
+Epoch: 15.00  |  Index: 15 | Loss: 0.121 | Acc: 96.276% (3697/3840) | total time: 0.211s
+Epoch: 20.00  |  Index: 20 | Loss: 0.120 | Acc: 96.289% (4930/5120) | total time: 0.274s
+Epoch: 25.00  |  Index: 25 | Loss: 0.122 | Acc: 96.297% (6163/6400) | total time: 0.336s
+Epoch: 30.00  |  Index: 30 | Loss: 0.127 | Acc: 96.172% (7386/7680) | total time: 0.399s
+Epoch: 35.00  |  Index: 35 | Loss: 0.127 | Acc: 96.172% (8617/8960) | total time: 0.462s
+Epoch: 40.00  |  Index: 40 | Loss: 0.123 | Acc: 96.220% (9622/10000) | total time: 0.533s
+torch.Size([3, 1442, 242])
+
+Epoch: 1
+
+Training..: 
+
+Epoch: 1.00  |  Index: 1 | Loss: 0.149 | Acc: 96.875% (248/256) | total time: 0.051s
+Epoch: 1.20  |  Index: 47 | Loss: 0.117 | Acc: 96.551% (11617/12032) | total time: 0.626s
+Epoch: 1.40  |  Index: 94 | Loss: 0.113 | Acc: 96.713% (23273/24064) | total time: 1.215s
+Epoch: 1.60  |  Index: 141 | Loss: 0.109 | Acc: 96.795% (34939/36096) | total time: 1.825s
+Epoch: 1.80  |  Index: 188 | Loss: 0.106 | Acc: 96.850% (46612/48128) | total time: 2.481s
+Epoch: 2.00  |  Index: 235 | Loss: 0.102 | Acc: 96.935% (58161/60000) | total time: 5.772s
+
+Testing..: 
+
+Epoch: 41.00  |  Index: 1 | Loss: 0.574 | Acc: 85.938% (220/256) | total time: 0.035s
+Epoch: 45.00  |  Index: 5 | Loss: 0.459 | Acc: 86.562% (1108/1280) | total time: 0.084s
+Epoch: 50.00  |  Index: 10 | Loss: 0.454 | Acc: 86.523% (2215/2560) | total time: 0.147s
+Epoch: 55.00  |  Index: 15 | Loss: 0.442 | Acc: 86.641% (3327/3840) | total time: 0.209s
+Epoch: 60.00  |  Index: 20 | Loss: 0.442 | Acc: 86.406% (4424/5120) | total time: 0.271s
+Epoch: 65.00  |  Index: 25 | Loss: 0.438 | Acc: 86.375% (5528/6400) | total time: 0.334s
+Epoch: 70.00  |  Index: 30 | Loss: 0.437 | Acc: 86.380% (6634/7680) | total time: 0.396s
+Epoch: 75.00  |  Index: 35 | Loss: 0.441 | Acc: 86.105% (7715/8960) | total time: 0.459s
+Epoch: 80.00  |  Index: 40 | Loss: 0.440 | Acc: 86.290% (8629/10000) | total time: 0.509s
+torch.Size([3, 5162, 242])
+
+Epoch: 2
+
+Training..: 
+
+Epoch: 2.00  |  Index: 1 | Loss: 0.242 | Acc: 92.969% (238/256) | total time: 0.105s
+Epoch: 2.20  |  Index: 47 | Loss: 0.076 | Acc: 97.673% (11752/12032) | total time: 0.681s
+Epoch: 2.40  |  Index: 94 | Loss: 0.076 | Acc: 97.648% (23498/24064) | total time: 1.295s
+Epoch: 2.60  |  Index: 141 | Loss: 0.075 | Acc: 97.626% (35239/36096) | total time: 1.883s
+Epoch: 2.80  |  Index: 188 | Loss: 0.075 | Acc: 97.660% (47002/48128) | total time: 2.472s
+Epoch: 3.00  |  Index: 235 | Loss: 0.073 | Acc: 97.713% (58628/60000) | total time: 5.589s
+
+Testing..: 
+
+Epoch: 81.00  |  Index: 1 | Loss: 0.058 | Acc: 98.047% (251/256) | total time: 0.035s
+Epoch: 85.00  |  Index: 5 | Loss: 0.088 | Acc: 96.875% (1240/1280) | total time: 0.085s
+Epoch: 90.00  |  Index: 10 | Loss: 0.089 | Acc: 96.992% (2483/2560) | total time: 0.148s
+Epoch: 95.00  |  Index: 15 | Loss: 0.091 | Acc: 96.953% (3723/3840) | total time: 0.211s
+Epoch: 100.00  |  Index: 20 | Loss: 0.088 | Acc: 97.051% (4969/5120) | total time: 0.274s
+Epoch: 105.00  |  Index: 25 | Loss: 0.092 | Acc: 97.000% (6208/6400) | total time: 0.337s
+Epoch: 110.00  |  Index: 30 | Loss: 0.093 | Acc: 96.992% (7449/7680) | total time: 0.400s
+Epoch: 115.00  |  Index: 35 | Loss: 0.092 | Acc: 97.054% (8696/8960) | total time: 0.462s
+Epoch: 120.00  |  Index: 40 | Loss: 0.089 | Acc: 97.140% (9714/10000) | total time: 0.514s
+torch.Size([3, 1082, 242])
+
+Epoch: 3
+
+Training..: 
+
+Epoch: 3.00  |  Index: 1 | Loss: 0.056 | Acc: 98.828% (253/256) | total time: 0.062s
+Epoch: 3.20  |  Index: 47 | Loss: 0.058 | Acc: 98.238% (11820/12032) | total time: 0.653s
+Epoch: 3.40  |  Index: 94 | Loss: 0.060 | Acc: 98.167% (23623/24064) | total time: 1.279s
+Epoch: 3.60  |  Index: 141 | Loss: 0.059 | Acc: 98.155% (35430/36096) | total time: 1.881s
+Epoch: 3.80  |  Index: 188 | Loss: 0.058 | Acc: 98.192% (47258/48128) | total time: 2.477s
+Epoch: 4.00  |  Index: 235 | Loss: 0.058 | Acc: 98.185% (58911/60000) | total time: 5.514s
+
+Testing..: 
+
+Epoch: 121.00  |  Index: 1 | Loss: 0.114 | Acc: 97.266% (249/256) | total time: 0.035s
+Epoch: 125.00  |  Index: 5 | Loss: 0.094 | Acc: 97.109% (1243/1280) | total time: 0.086s
+Epoch: 130.00  |  Index: 10 | Loss: 0.094 | Acc: 96.797% (2478/2560) | total time: 0.149s
+Epoch: 135.00  |  Index: 15 | Loss: 0.086 | Acc: 97.109% (3729/3840) | total time: 0.212s
+Epoch: 140.00  |  Index: 20 | Loss: 0.081 | Acc: 97.285% (4981/5120) | total time: 0.275s
+Epoch: 145.00  |  Index: 25 | Loss: 0.079 | Acc: 97.438% (6236/6400) | total time: 0.338s
+Epoch: 150.00  |  Index: 30 | Loss: 0.083 | Acc: 97.383% (7479/7680) | total time: 0.402s
+Epoch: 155.00  |  Index: 35 | Loss: 0.083 | Acc: 97.344% (8722/8960) | total time: 0.465s
+Epoch: 160.00  |  Index: 40 | Loss: 0.081 | Acc: 97.330% (9733/10000) | total time: 0.516s
+torch.Size([3, 1022, 242])
+
+Epoch: 4
+
+Training..: 
+
+Epoch: 4.00  |  Index: 1 | Loss: 0.039 | Acc: 98.438% (252/256) | total time: 0.054s
+Epoch: 4.20  |  Index: 47 | Loss: 0.045 | Acc: 98.728% (11879/12032) | total time: 0.629s
+Epoch: 4.40  |  Index: 94 | Loss: 0.044 | Acc: 98.662% (23742/24064) | total time: 1.355s
+Epoch: 4.60  |  Index: 141 | Loss: 0.045 | Acc: 98.654% (35610/36096) | total time: 1.944s
+Epoch: 4.80  |  Index: 188 | Loss: 0.047 | Acc: 98.556% (47433/48128) | total time: 2.534s
+Epoch: 5.00  |  Index: 235 | Loss: 0.049 | Acc: 98.480% (59088/60000) | total time: 5.602s
+
+Testing..: 
+
+Epoch: 161.00  |  Index: 1 | Loss: 0.070 | Acc: 97.266% (249/256) | total time: 0.035s
+Epoch: 165.00  |  Index: 5 | Loss: 0.074 | Acc: 97.578% (1249/1280) | total time: 0.086s
+Epoch: 170.00  |  Index: 10 | Loss: 0.080 | Acc: 97.461% (2495/2560) | total time: 0.149s
+Epoch: 175.00  |  Index: 15 | Loss: 0.083 | Acc: 97.448% (3742/3840) | total time: 0.212s
+Epoch: 180.00  |  Index: 20 | Loss: 0.084 | Acc: 97.441% (4989/5120) | total time: 0.275s
+Epoch: 185.00  |  Index: 25 | Loss: 0.079 | Acc: 97.531% (6242/6400) | total time: 0.339s
+Epoch: 190.00  |  Index: 30 | Loss: 0.079 | Acc: 97.565% (7493/7680) | total time: 0.402s
+Epoch: 195.00  |  Index: 35 | Loss: 0.075 | Acc: 97.712% (8755/8960) | total time: 0.465s
+Epoch: 200.00  |  Index: 40 | Loss: 0.078 | Acc: 97.630% (9763/10000) | total time: 0.517s
+torch.Size([3, 902, 242])
+
+Epoch: 5
+
+Training..: 
+
+Epoch: 5.00  |  Index: 1 | Loss: 0.089 | Acc: 97.266% (249/256) | total time: 0.056s
+Epoch: 5.20  |  Index: 47 | Loss: 0.035 | Acc: 98.903% (11900/12032) | total time: 0.660s
+Epoch: 5.40  |  Index: 94 | Loss: 0.041 | Acc: 98.733% (23759/24064) | total time: 1.403s
+Epoch: 5.60  |  Index: 141 | Loss: 0.043 | Acc: 98.643% (35606/36096) | total time: 2.119s
+Epoch: 5.80  |  Index: 188 | Loss: 0.045 | Acc: 98.635% (47471/48128) | total time: 2.837s
+Epoch: 6.00  |  Index: 235 | Loss: 0.043 | Acc: 98.652% (59191/60000) | total time: 6.060s
+
+Testing..: 
+
+Epoch: 201.00  |  Index: 1 | Loss: 0.057 | Acc: 99.219% (254/256) | total time: 0.035s
+Epoch: 205.00  |  Index: 5 | Loss: 0.062 | Acc: 98.359% (1259/1280) | total time: 0.085s
+Epoch: 210.00  |  Index: 10 | Loss: 0.058 | Acc: 98.281% (2516/2560) | total time: 0.149s
+Epoch: 215.00  |  Index: 15 | Loss: 0.059 | Acc: 98.125% (3768/3840) | total time: 0.212s
+Epoch: 220.00  |  Index: 20 | Loss: 0.061 | Acc: 98.164% (5026/5120) | total time: 0.274s
+Epoch: 225.00  |  Index: 25 | Loss: 0.060 | Acc: 98.172% (6283/6400) | total time: 0.337s
+Epoch: 230.00  |  Index: 30 | Loss: 0.061 | Acc: 98.138% (7537/7680) | total time: 0.402s
+Epoch: 235.00  |  Index: 35 | Loss: 0.059 | Acc: 98.147% (8794/8960) | total time: 0.479s
+Epoch: 240.00  |  Index: 40 | Loss: 0.064 | Acc: 98.180% (9818/10000) | total time: 0.541s
+torch.Size([3, 692, 242])
+
+Epoch: 6
+
+Training..: 
+
+Epoch: 6.00  |  Index: 1 | Loss: 0.030 | Acc: 99.219% (254/256) | total time: 0.039s
+Epoch: 6.20  |  Index: 47 | Loss: 0.036 | Acc: 99.003% (11912/12032) | total time: 0.619s
+Epoch: 6.40  |  Index: 94 | Loss: 0.037 | Acc: 98.878% (23794/24064) | total time: 1.232s
+Epoch: 6.60  |  Index: 141 | Loss: 0.039 | Acc: 98.834% (35675/36096) | total time: 1.823s
+Epoch: 6.80  |  Index: 188 | Loss: 0.038 | Acc: 98.816% (47558/48128) | total time: 2.524s
+Epoch: 7.00  |  Index: 235 | Loss: 0.038 | Acc: 98.810% (59286/60000) | total time: 5.514s
+
+Testing..: 
+
+Epoch: 241.00  |  Index: 1 | Loss: 0.051 | Acc: 97.656% (250/256) | total time: 0.036s
+Epoch: 245.00  |  Index: 5 | Loss: 0.064 | Acc: 97.344% (1246/1280) | total time: 0.086s
+Epoch: 250.00  |  Index: 10 | Loss: 0.062 | Acc: 97.734% (2502/2560) | total time: 0.149s
+Epoch: 255.00  |  Index: 15 | Loss: 0.067 | Acc: 97.656% (3750/3840) | total time: 0.213s
+Epoch: 260.00  |  Index: 20 | Loss: 0.067 | Acc: 97.637% (4999/5120) | total time: 0.275s
+Epoch: 265.00  |  Index: 25 | Loss: 0.069 | Acc: 97.594% (6246/6400) | total time: 0.338s
+Epoch: 270.00  |  Index: 30 | Loss: 0.066 | Acc: 97.721% (7505/7680) | total time: 0.401s
+Epoch: 275.00  |  Index: 35 | Loss: 0.067 | Acc: 97.768% (8760/8960) | total time: 0.464s
+Epoch: 280.00  |  Index: 40 | Loss: 0.077 | Acc: 97.670% (9767/10000) | total time: 0.515s
+torch.Size([3, 902, 242])
+
+Epoch: 7
+
+Training..: 
+
+Epoch: 7.00  |  Index: 1 | Loss: 0.042 | Acc: 98.828% (253/256) | total time: 0.052s
+Epoch: 7.20  |  Index: 47 | Loss: 0.031 | Acc: 99.019% (11914/12032) | total time: 0.626s
+Epoch: 7.40  |  Index: 94 | Loss: 0.032 | Acc: 98.978% (23818/24064) | total time: 1.235s
+Epoch: 7.60  |  Index: 141 | Loss: 0.033 | Acc: 98.964% (35722/36096) | total time: 1.820s
+Epoch: 7.80  |  Index: 188 | Loss: 0.032 | Acc: 98.965% (47630/48128) | total time: 2.407s
+Epoch: 8.00  |  Index: 235 | Loss: 0.034 | Acc: 98.905% (59343/60000) | total time: 5.347s
+
+Testing..: 
+
+Epoch: 281.00  |  Index: 1 | Loss: 0.036 | Acc: 98.828% (253/256) | total time: 0.035s
+Epoch: 285.00  |  Index: 5 | Loss: 0.040 | Acc: 98.516% (1261/1280) | total time: 0.085s
+Epoch: 290.00  |  Index: 10 | Loss: 0.047 | Acc: 98.164% (2513/2560) | total time: 0.148s
+Epoch: 295.00  |  Index: 15 | Loss: 0.054 | Acc: 98.125% (3768/3840) | total time: 0.212s
+Epoch: 300.00  |  Index: 20 | Loss: 0.057 | Acc: 98.066% (5021/5120) | total time: 0.283s
+Epoch: 305.00  |  Index: 25 | Loss: 0.058 | Acc: 98.062% (6276/6400) | total time: 0.347s
+Epoch: 310.00  |  Index: 30 | Loss: 0.058 | Acc: 98.060% (7531/7680) | total time: 0.409s
+Epoch: 315.00  |  Index: 35 | Loss: 0.058 | Acc: 98.092% (8789/8960) | total time: 0.472s
+Epoch: 320.00  |  Index: 40 | Loss: 0.056 | Acc: 98.060% (9806/10000) | total time: 0.524s
+torch.Size([3, 752, 242])
+
+Epoch: 8
+
+Training..: 
+
+Epoch: 8.00  |  Index: 1 | Loss: 0.025 | Acc: 98.438% (252/256) | total time: 0.051s
+Epoch: 8.20  |  Index: 47 | Loss: 0.031 | Acc: 99.036% (11916/12032) | total time: 0.629s
+Epoch: 8.40  |  Index: 94 | Loss: 0.033 | Acc: 98.944% (23810/24064) | total time: 1.246s
+Epoch: 8.60  |  Index: 141 | Loss: 0.031 | Acc: 99.017% (35741/36096) | total time: 1.844s
+Epoch: 8.80  |  Index: 188 | Loss: 0.031 | Acc: 99.003% (47648/48128) | total time: 2.442s
+Epoch: 9.00  |  Index: 235 | Loss: 0.031 | Acc: 98.997% (59398/60000) | total time: 5.477s
+
+Testing..: 
+
+Epoch: 321.00  |  Index: 1 | Loss: 0.051 | Acc: 98.047% (251/256) | total time: 0.035s
+Epoch: 325.00  |  Index: 5 | Loss: 0.045 | Acc: 98.203% (1257/1280) | total time: 0.085s
+Epoch: 330.00  |  Index: 10 | Loss: 0.046 | Acc: 98.281% (2516/2560) | total time: 0.148s
+Epoch: 335.00  |  Index: 15 | Loss: 0.056 | Acc: 98.099% (3767/3840) | total time: 0.211s
+Epoch: 340.00  |  Index: 20 | Loss: 0.059 | Acc: 98.008% (5018/5120) | total time: 0.273s
+Epoch: 345.00  |  Index: 25 | Loss: 0.056 | Acc: 98.188% (6284/6400) | total time: 0.336s
+Epoch: 350.00  |  Index: 30 | Loss: 0.055 | Acc: 98.242% (7545/7680) | total time: 0.399s
+Epoch: 355.00  |  Index: 35 | Loss: 0.054 | Acc: 98.292% (8807/8960) | total time: 0.461s
+Epoch: 360.00  |  Index: 40 | Loss: 0.053 | Acc: 98.290% (9829/10000) | total time: 0.512s
+torch.Size([3, 662, 242])
+
+Epoch: 9
+
+Training..: 
+
+Epoch: 9.00  |  Index: 1 | Loss: 0.013 | Acc: 99.609% (255/256) | total time: 0.050s
+Epoch: 9.20  |  Index: 47 | Loss: 0.027 | Acc: 99.161% (11931/12032) | total time: 0.630s
+Epoch: 9.40  |  Index: 94 | Loss: 0.028 | Acc: 99.111% (23850/24064) | total time: 1.245s
+Epoch: 9.60  |  Index: 141 | Loss: 0.028 | Acc: 99.116% (35777/36096) | total time: 1.834s
+Epoch: 9.80  |  Index: 188 | Loss: 0.027 | Acc: 99.134% (47711/48128) | total time: 2.425s
+Epoch: 10.00  |  Index: 235 | Loss: 0.027 | Acc: 99.147% (59488/60000) | total time: 5.378s
+
+Testing..: 
+
+Epoch: 361.00  |  Index: 1 | Loss: 0.113 | Acc: 97.266% (249/256) | total time: 0.035s
+Epoch: 365.00  |  Index: 5 | Loss: 0.061 | Acc: 98.203% (1257/1280) | total time: 0.085s
+Epoch: 370.00  |  Index: 10 | Loss: 0.058 | Acc: 98.281% (2516/2560) | total time: 0.149s
+Epoch: 375.00  |  Index: 15 | Loss: 0.053 | Acc: 98.464% (3781/3840) | total time: 0.212s
+Epoch: 380.00  |  Index: 20 | Loss: 0.052 | Acc: 98.398% (5038/5120) | total time: 0.275s
+Epoch: 385.00  |  Index: 25 | Loss: 0.053 | Acc: 98.344% (6294/6400) | total time: 0.340s
+Epoch: 390.00  |  Index: 30 | Loss: 0.053 | Acc: 98.320% (7551/7680) | total time: 0.402s
+Epoch: 395.00  |  Index: 35 | Loss: 0.053 | Acc: 98.359% (8813/8960) | total time: 0.466s
+Epoch: 400.00  |  Index: 40 | Loss: 0.051 | Acc: 98.370% (9837/10000) | total time: 0.517s
+torch.Size([3, 632, 242])
+
+Epoch: 10
+
+Training..: 
+
+Epoch: 10.00  |  Index: 1 | Loss: 0.019 | Acc: 99.219% (254/256) | total time: 0.048s
+Epoch: 10.20  |  Index: 47 | Loss: 0.021 | Acc: 99.352% (11954/12032) | total time: 0.629s
+Epoch: 10.40  |  Index: 94 | Loss: 0.023 | Acc: 99.256% (23885/24064) | total time: 1.242s
+Epoch: 10.60  |  Index: 141 | Loss: 0.024 | Acc: 99.227% (35817/36096) | total time: 1.833s
+Epoch: 10.80  |  Index: 188 | Loss: 0.025 | Acc: 99.148% (47718/48128) | total time: 2.423s
+Epoch: 11.00  |  Index: 235 | Loss: 0.026 | Acc: 99.140% (59484/60000) | total time: 5.438s
+
+Testing..: 
+
+Epoch: 401.00  |  Index: 1 | Loss: 0.066 | Acc: 98.047% (251/256) | total time: 0.039s
+Epoch: 405.00  |  Index: 5 | Loss: 0.054 | Acc: 98.516% (1261/1280) | total time: 0.088s
+Epoch: 410.00  |  Index: 10 | Loss: 0.050 | Acc: 98.516% (2522/2560) | total time: 0.151s
+Epoch: 415.00  |  Index: 15 | Loss: 0.051 | Acc: 98.464% (3781/3840) | total time: 0.213s
+Epoch: 420.00  |  Index: 20 | Loss: 0.055 | Acc: 98.340% (5035/5120) | total time: 0.276s
+Epoch: 425.00  |  Index: 25 | Loss: 0.056 | Acc: 98.281% (6290/6400) | total time: 0.339s
+Epoch: 430.00  |  Index: 30 | Loss: 0.054 | Acc: 98.320% (7551/7680) | total time: 0.401s
+Epoch: 435.00  |  Index: 35 | Loss: 0.055 | Acc: 98.304% (8808/8960) | total time: 0.464s
+Epoch: 440.00  |  Index: 40 | Loss: 0.053 | Acc: 98.330% (9833/10000) | total time: 0.514s
+torch.Size([3, 632, 242])
+
+Epoch: 11
+
+Training..: 
+
+Epoch: 11.00  |  Index: 1 | Loss: 0.016 | Acc: 99.609% (255/256) | total time: 0.050s
+Epoch: 11.20  |  Index: 47 | Loss: 0.023 | Acc: 99.310% (11949/12032) | total time: 0.640s
+Epoch: 11.40  |  Index: 94 | Loss: 0.022 | Acc: 99.314% (23899/24064) | total time: 1.262s
+Epoch: 11.60  |  Index: 141 | Loss: 0.022 | Acc: 99.327% (35853/36096) | total time: 1.854s
+Epoch: 11.80  |  Index: 188 | Loss: 0.022 | Acc: 99.333% (47807/48128) | total time: 2.446s
+Epoch: 12.00  |  Index: 235 | Loss: 0.022 | Acc: 99.322% (59593/60000) | total time: 5.455s
+
+Testing..: 
+
+Epoch: 441.00  |  Index: 1 | Loss: 0.075 | Acc: 98.047% (251/256) | total time: 0.036s
+Epoch: 445.00  |  Index: 5 | Loss: 0.059 | Acc: 98.359% (1259/1280) | total time: 0.086s
+Epoch: 450.00  |  Index: 10 | Loss: 0.053 | Acc: 98.398% (2519/2560) | total time: 0.148s
+Epoch: 455.00  |  Index: 15 | Loss: 0.058 | Acc: 98.125% (3768/3840) | total time: 0.211s
+Epoch: 460.00  |  Index: 20 | Loss: 0.060 | Acc: 98.047% (5020/5120) | total time: 0.274s
+Epoch: 465.00  |  Index: 25 | Loss: 0.058 | Acc: 98.125% (6280/6400) | total time: 0.337s
+Epoch: 470.00  |  Index: 30 | Loss: 0.060 | Acc: 98.021% (7528/7680) | total time: 0.399s
+Epoch: 475.00  |  Index: 35 | Loss: 0.061 | Acc: 97.958% (8777/8960) | total time: 0.462s
+Epoch: 480.00  |  Index: 40 | Loss: 0.063 | Acc: 97.940% (9794/10000) | total time: 0.513s
+torch.Size([3, 782, 242])
+
+Epoch: 12
+
+Training..: 
+
+Epoch: 12.00  |  Index: 1 | Loss: 0.046 | Acc: 98.438% (252/256) | total time: 0.050s
+Epoch: 12.20  |  Index: 47 | Loss: 0.018 | Acc: 99.352% (11954/12032) | total time: 0.628s
+Epoch: 12.40  |  Index: 94 | Loss: 0.020 | Acc: 99.389% (23917/24064) | total time: 1.284s
+Epoch: 12.60  |  Index: 141 | Loss: 0.019 | Acc: 99.385% (35874/36096) | total time: 1.939s
+Epoch: 12.80  |  Index: 188 | Loss: 0.019 | Acc: 99.418% (47848/48128) | total time: 2.529s
+Epoch: 13.00  |  Index: 235 | Loss: 0.020 | Acc: 99.352% (59611/60000) | total time: 5.453s
+
+Testing..: 
+
+Epoch: 481.00  |  Index: 1 | Loss: 0.071 | Acc: 98.438% (252/256) | total time: 0.036s
+Epoch: 485.00  |  Index: 5 | Loss: 0.074 | Acc: 98.047% (1255/1280) | total time: 0.085s
+Epoch: 490.00  |  Index: 10 | Loss: 0.058 | Acc: 98.203% (2514/2560) | total time: 0.148s
+Epoch: 495.00  |  Index: 15 | Loss: 0.059 | Acc: 98.307% (3775/3840) | total time: 0.211s
+Epoch: 500.00  |  Index: 20 | Loss: 0.060 | Acc: 98.164% (5026/5120) | total time: 0.275s
+Epoch: 505.00  |  Index: 25 | Loss: 0.055 | Acc: 98.328% (6293/6400) | total time: 0.337s
+Epoch: 510.00  |  Index: 30 | Loss: 0.056 | Acc: 98.255% (7546/7680) | total time: 0.400s
+Epoch: 515.00  |  Index: 35 | Loss: 0.057 | Acc: 98.225% (8801/8960) | total time: 0.463s
+Epoch: 520.00  |  Index: 40 | Loss: 0.054 | Acc: 98.260% (9826/10000) | total time: 0.514s
+torch.Size([3, 662, 242])
+
+Epoch: 13
+
+Training..: 
+
+Epoch: 13.00  |  Index: 1 | Loss: 0.012 | Acc: 99.609% (255/256) | total time: 0.045s
+Epoch: 13.20  |  Index: 47 | Loss: 0.015 | Acc: 99.584% (11982/12032) | total time: 0.626s
+Epoch: 13.40  |  Index: 94 | Loss: 0.015 | Acc: 99.543% (23954/24064) | total time: 1.291s
+Epoch: 13.60  |  Index: 141 | Loss: 0.016 | Acc: 99.512% (35920/36096) | total time: 2.008s
+Epoch: 13.80  |  Index: 188 | Loss: 0.018 | Acc: 99.472% (47874/48128) | total time: 2.712s
+Epoch: 14.00  |  Index: 235 | Loss: 0.017 | Acc: 99.487% (59692/60000) | total time: 5.632s
+
+Testing..: 
+
+Epoch: 521.00  |  Index: 1 | Loss: 0.102 | Acc: 96.875% (248/256) | total time: 0.036s
+Epoch: 525.00  |  Index: 5 | Loss: 0.075 | Acc: 97.734% (1251/1280) | total time: 0.086s
+Epoch: 530.00  |  Index: 10 | Loss: 0.062 | Acc: 98.125% (2512/2560) | total time: 0.150s
+Epoch: 535.00  |  Index: 15 | Loss: 0.053 | Acc: 98.307% (3775/3840) | total time: 0.213s
+Epoch: 540.00  |  Index: 20 | Loss: 0.058 | Acc: 98.164% (5026/5120) | total time: 0.275s
+Epoch: 545.00  |  Index: 25 | Loss: 0.062 | Acc: 98.141% (6281/6400) | total time: 0.341s
+Epoch: 550.00  |  Index: 30 | Loss: 0.059 | Acc: 98.177% (7540/7680) | total time: 0.417s
+Epoch: 555.00  |  Index: 35 | Loss: 0.063 | Acc: 98.047% (8785/8960) | total time: 0.493s
+Epoch: 560.00  |  Index: 40 | Loss: 0.061 | Acc: 98.070% (9807/10000) | total time: 0.555s
+torch.Size([3, 752, 242])
+
+Epoch: 14
+
+Training..: 
+
+Epoch: 14.00  |  Index: 1 | Loss: 0.015 | Acc: 99.609% (255/256) | total time: 0.050s
+Epoch: 14.20  |  Index: 47 | Loss: 0.013 | Acc: 99.609% (11985/12032) | total time: 0.632s
+Epoch: 14.40  |  Index: 94 | Loss: 0.014 | Acc: 99.551% (23956/24064) | total time: 1.248s
+Epoch: 14.60  |  Index: 141 | Loss: 0.015 | Acc: 99.532% (35927/36096) | total time: 1.843s
+Epoch: 14.80  |  Index: 188 | Loss: 0.016 | Acc: 99.505% (47890/48128) | total time: 2.439s
+final training error list is done
+315
+Epoch: 15.00  |  Index: 235 | Loss: 0.017 | Acc: 99.475% (59685/60000) | total time: 5.384s
+
+Testing..: 
+
+Epoch: 561.00  |  Index: 1 | Loss: 0.036 | Acc: 99.219% (254/256) | total time: 0.035s
+Epoch: 565.00  |  Index: 5 | Loss: 0.047 | Acc: 98.906% (1266/1280) | total time: 0.085s
+Epoch: 570.00  |  Index: 10 | Loss: 0.052 | Acc: 98.359% (2518/2560) | total time: 0.148s
+Epoch: 575.00  |  Index: 15 | Loss: 0.053 | Acc: 98.281% (3774/3840) | total time: 0.210s
+Epoch: 580.00  |  Index: 20 | Loss: 0.055 | Acc: 98.223% (5029/5120) | total time: 0.273s
+Epoch: 585.00  |  Index: 25 | Loss: 0.052 | Acc: 98.266% (6289/6400) | total time: 0.336s
+Epoch: 590.00  |  Index: 30 | Loss: 0.051 | Acc: 98.320% (7551/7680) | total time: 0.408s
+Epoch: 595.00  |  Index: 35 | Loss: 0.050 | Acc: 98.382% (8815/8960) | total time: 0.470s
+Epoch: 600.00  |  Index: 40 | Loss: 0.051 | Acc: 98.410% (9841/10000) | total time: 0.521s
+torch.Size([3, 602, 242])
+final test error list is done
+159
